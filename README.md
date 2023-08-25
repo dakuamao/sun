@@ -4,11 +4,10 @@ responsive, dark-mode ready Jekyll theme designed for use as a personal website 
 
 ![Gradfolio Template Homepage](https://user-images.githubusercontent.com/2485715/110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png)
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+## Education
+- Northwest University (China), Ph.D. in Economics. November 2014.
+- Sichuan University, M.A. in Economics. July 2005.
+- Taiyuan Normal University, B.A. in Law, School of Law. July 2001.
 
 ## Installation
 * Click on `Use this template`
