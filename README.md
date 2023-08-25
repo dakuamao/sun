@@ -1,7 +1,5 @@
 # Zhao-yong Sun
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. 
-
 Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University of Technology, China. His research focus is on Renewable energy.
 ## Education
 - Northwest University (China), Ph.D. in Economics. November 2014.
