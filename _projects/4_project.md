@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 指导本科生竞赛及社会实践情况
+title: 指导本科生竞赛及社会实践获奖
 description: 指导教师
 ---
 
