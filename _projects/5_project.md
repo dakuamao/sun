@@ -16,6 +16,8 @@ description: 获奖
 * 西安理工大学2023年度本科优秀教学设计方案三等奖
 
 
-  
-redirect: https://dakuamao.github.io/sun.com/
+
+
+
+redirect: [https://dakuamao.github.io/sun.com/]
 ---
