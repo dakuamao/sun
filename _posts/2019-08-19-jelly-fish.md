@@ -1,27 +1,8 @@
 ---
 layout: post
-title:  A Jelly-Fish
+title:  2022年发表论文
 ---
+1. Zhao-Yong Sun, Shu-Ning Wang, Dongdong Li. The impacts of carbon emissions and voluntary carbon disclosure on firm value. Environmental Science and  Pollution Research. 2022. 29 (40), 60189-60197.
+2. Zhao-Yong Sun, Xin-Yu Cai, Wei-Chiao Huang. The Impact of Oil Price Fluctuations on Consumption, Output, and Investment in China's Industrial Sectors. Energies 2022, 15 (9), 3411. 
 
-Visible, invisible,  
-A fluctuating charm,  
-An amber-colored amethyst  
-Inhabits it; your arm  
-Approaches, and  
-It opens and  
-It closes;  
-You have meant  
-To catch it,  
-And it shrivels;  
-You abandon  
-Your intent—  
-It opens, and it  
-Closes and you  
-Reach for it—  
-The blue  
-Surrounding it  
-Grows cloudy, and  
-It floats away  
-From you.  
-
-[by Marianne Moore](https://poets.org/anthology/poems-your-poetry-project-public-domain)
+[by Zhao-Yong Sun](https://github.com/dakuamao)
