@@ -7,6 +7,10 @@ Zhao-Yong Sun (dakuamao@126.com) is an Associate Professor at Xi’an University
 - Taiyuan Normal University, B.A. in Law, School of Law. July 2001.
 
 ## Publications 
+* Zhao-Yong Sun, Jiang-Lun Wu, Wei-Chiao Huang. The dependence structure and Causality Detection in Crude Oil Markets. Energy Sources, Part B: Economics, Planning, and Policy. 2024.
+* Zhao-Yong Sun, Min-Xin Deng, Dongdong Li, Yeran Sun. Characteristics and driving factors of carbon emissions in China. Journal of Environmental Planning and Management. 2024. (SSCI, JCR2区) . WOS：000883294700001. https://doi.org/10.1080/09640568.2022.2142906
+* Zhao-Yong Sun, Shu-Ning Wang, Dongdong Li. Investor response to corporate social responsibility performance: the role of corporate social responsibility reports readability. Managerial and Decision Economics. 2024.
+* Yeran Sun; Jing Xie; Yu Wang; Ting On Chan; Zhao-Yong Sun. Mapping local-scale working population and daytime population densities using points-of-interest and nighttime light satellite imageries. Geo-spatial Information Science. 2023.11
 * Dongdong Li, Chenxuan Shang, Leonard F.S. Wang, Wei-Chiao Huang, Zhao-Yong Sun. Environmental technology licensing with multi-product competition in a vertically differentiated duopoly. Economics of Innovation and New Technology. 2023. (SSCI) 
 * Zhao-Yong Sun, Yu-Jue Wang, Dongdong Li. Carbon allowance allocation rules under emission intensity regulation: grandfathering versus benchmarking. Managerial and Decision Economics. 2023. (SSCI) 
 * Dongdong Li, Chenxuan Shang, Zhao-Yong Sun. Firms’ environmental R&D cooperation strategy with strategic corporate social responsibility. Technology Analysis & Strategic Management. 2023. (SSCI).
