@@ -97,6 +97,6 @@
 欢迎有志于学术研究的学术型硕士、全日制会计专业硕士（MPACC）、全日制工商管理（MBA）专业硕士报考。
 
 ## 联系方式：
-Email：dakuamao@126.com
-办公地点：11-513A
-微信公众号：FollowMeWithR
+- Email：dakuamao@126.com
+- 办公地点：11-513A
+- 微信公众号：FollowMeWithR
