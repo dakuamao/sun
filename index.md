@@ -1,3 +1,11 @@
+---
+layout: about
+permalink: /
+profile:
+  align: right
+  published: true
+---
+
 # 孙赵勇
     
     山西绛县人，副教授，硕士生导师。
