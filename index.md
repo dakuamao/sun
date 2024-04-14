@@ -23,3 +23,5 @@ profile:
 - Email：dakuamao@126.com
 - 办公地点：11-513A
 - 微信公众号：FollowMeWithR
+- B站号：dakuamao
+- QQ号：76849001
