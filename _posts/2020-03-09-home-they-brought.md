@@ -1,26 +1,14 @@
 ---
 layout: post
-title: Home They Brought Her Warrior Dead 
+title: 2024年论文 
 ---
 
-Home they brought her warrior dead:  
-She nor swooned, nor uttered cry:  
-All her maidens, watching, said,  
-'She must weep or she will die.'  
+1. Zhao-Yong Sun, Jiang-Lun Wu, Wei-Chiao Huang. The dependence structure and Causality Detection in Crude Oil Markets. Energy Sources, Part B: Economics, Planning, and Policy. 2024.
+2.  Zhao-Yong Sun, Min-Xin Deng, Dongdong Li, Yeran Sun. Characteristics and driving factors of carbon emissions in China. Journal of Environmental Planning and Management. 2024. 
+3. Zhao-Yong Sun, Shu-Ning Wang, Dongdong Li. Investor response to corporate social responsibility performance: the role of corporate social responsibility reports readability. Managerial and Decision Economics. 2024.
 
-Then they praised him, soft and low,  
-Called him worthy to be loved,  
-Truest friend and noblest foe;  
-Yet she neither spoke nor moved.  
 
-Stole a maiden from her place,  
-Lightly to the warrior stept,  
-Took the face-cloth from the face;  
-Yet she neither moved nor wept.  
 
-Rose a nurse of ninety years,  
-Set his child upon her knee—  
-Like summer tempest came her tears—  
-'Sweet my child, I live for thee.'  
+ 
 
-[by Alfred Tennyson](https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead)
+[by Zhao-Yong Sun](https://dakuamao.github.io/Sun.com/)
