@@ -1,166 +1,36 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: 指导本科生竞赛及社会实践情况
+description: 指导教师
 ---
 
-Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
+
+大学生挑战杯获奖：
 ============
+- 陈沫等“医患关系紧张原因的研究报告”于第十三届“挑战杯”全国大学生课外学术科技作品竞赛，获国家三等奖，2013
+- 张娜等“无偿献血“信任危机”产生原因的调查报告”于第九届西安高新“挑战杯”陕西省大学生课外学术科技作品竞赛，获陕西省特等奖，2013
 
-Paragraphs are separated by a blank line.
-
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
-
-  * this one
-  * that one
-  * the other one
-
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
-
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+“互联网+”大学生创新创业大赛：
+- 李玉凡等，花样致富—四季花卉产业链助力周至乡村振兴,获“互联网+”大学生创新创业大赛三等奖（校级），2023
+- 王强等，逍遥游—数智旅游攻略专家，获“互联网+”大学生创新创业大赛三等奖（校级），2023
+- 李玉凡等，‘健康管家’融资销售项目，获“互联网+”大学生创新创业大赛二等奖（校级），2021
+- 林宇航等，“陕西延安黄龙综合扶贫招商项目”获“互联网+”大学生创新创业大赛三等奖（校级），2020
+- 刘晚晴等，“陕西省佛坪县家禽类产业化及大数据辅助销售竞争扶贫项目”获“互联网+”大学生创新创业大赛一等奖（校级），2019
+- 余曼等，“健康智管家”，获“互联网+”大学生创新创业大赛三等奖（校级），2017
 
 
-H2 Header
-------------
+大学生创新创业训练计划项目
+============
+- 李荣彬等，“乡村振兴背景下瓦铺村生态产品价值实现路径研究”,大学生创新创业训练计划项目，省级，2023
+- 张鸽等，“国际原油价格波动风险管理策略及模拟系统”，大学生创新创业训练计划项目，省级，2021
+- 余曼等，“社会信任危机根源跟踪调研”，大学生创新创业训练计划项目，国家级，2017
+- 许艳等，“竞争扶贫实践中新问题及对策研究—基于陕南的调查”，大学生创新创业训练计划项目，省级，2019
 
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it:
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-
-
-### An h3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-Name           Size  Material      Color
-------------- -----  ------------  ------------
-All Business      9  leather       brown
-Roundabout       10  hemp canvas   natural
-Cinderella       11  glass         transparent
-
-Table: Shoes sizes, materials, and colors.
-
-(The above is the caption for the table.) Pandoc also supports
-multi-line tables:
-
---------  -----------------------
-Keyword   Text
---------  -----------------------
-red       Sunsets, apples, and
-          other red or reddish
-          things.
-
-green     Leaves, grass, frogs
-          and other things it's
-          not easy being.
---------  -----------------------
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](example-image.jpg "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
-
-And note that you can backslash-escape any punctuation characters
-which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
+暑期“三下乡”社会实践
+============
+- 林宇航等， 信息化时代网络媒体舆论导向调查研究，获西安理工大学大学生志愿者文化科技卫生“三下乡”社会实践活动三等奖，2020
+- 张南科等， 农村居民生产生活中的碳排放调查，2021
+- 李荣彬等，“乡村生态文明建设现状及发展路径研究—基于安康市瓦铺村的调研”，2022
+- 胡飞等，“社会分层对大学生就业的影响研究”，2017
+- 精准扶贫中的返贫阻断对策研究，第二十九届大学生课外学术科技作品竞赛获奖，二等奖
