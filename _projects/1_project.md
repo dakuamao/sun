@@ -4,7 +4,6 @@ title: 硕士生获奖
 description: 近年来指导硕士生获奖
 ---
 
-Example taken from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 国家奖学金获得者
 ============
