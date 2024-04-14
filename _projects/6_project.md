@@ -17,5 +17,5 @@ description:
 
 
 
-redirect: https://dakuamao.github.io/kcsz.com/
+redirect: [https://dakuamao.github.io/kcsz.com/]
 ---
