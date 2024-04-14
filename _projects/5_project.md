@@ -14,5 +14,8 @@ description: 获奖
 * 立德树人、启智润心：研究生培养多元驱动模式创新与实践,校研究生教学成果奖一等奖.2023.12
 * 筑基铸魂，守正创新—经济学类课程思政改革的系统探索与实践，校本科教学成果奖二等奖，2023.12
 * 西安理工大学2023年度本科优秀教学设计方案三等奖
-redirect: https://dakuamao.github.io/kcsz.com/
+
+
+  
+redirect: https://dakuamao.github.io/sun.com/
 ---
