@@ -1,5 +1,6 @@
 # 孙赵勇
-    山西绛县人，副教授，硕士生导师。主持陕西省社科界重大理论与现实问题研究项目、陕西省社会科学基金、陕西省自然科学基础研究项目、陕西省高等教育教学改革研究重点项目等省部级项目5项；主持陕西省知识产权战略研究课题、西安市社会科学规划基金、陕西教育厅人文社会科学专项基金、陕西教育厅哲学社会科学重点研究基地项目等厅局级项目6项；主持企业横向课题多项。作为主要成员获西安市科技进步奖二等奖、三等奖各1项，陕西高等学校科学技术奖二等奖1项，陕西高校人文社会科学研究优秀成果奖三等奖1项。获省级教学成果奖二等奖1项，校级教学成果奖特等奖1项，二等奖1项。在Journal of Environmental Planning and Management、Managerial and Decision Economics、Economic Change and Restructuring、Energy Sources, Part B: Economics, Planning, and Policy、Environmental Science and  Pollution Research、资源科学、科学学与科学技术管理等国内外重要期刊发表论文30多篇。
+    
+    山西绛县人，副教授，硕士生导师。
 
 ## 工作与学习经历：
 - 2009-2014.博士.经济学.西北大学
