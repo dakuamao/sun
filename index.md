@@ -3,8 +3,8 @@ layout: about
 permalink: /
 profile:
   align: right
- image: weixin.jpg
-  published: true
+  image: weixin.jpg
+published: true
 ---
 
 # 孙赵勇
