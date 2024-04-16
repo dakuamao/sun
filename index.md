@@ -3,6 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
+ image: weixin.png
   published: true
 ---
 
