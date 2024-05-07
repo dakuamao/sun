@@ -8,4 +8,4 @@ description: 计量经济学
 ============
 
 《计量经济学》（ISBN：9787300245423），中国人民大学出版社，2017年8月，第二主编。
-
+![image](https://github.com/dakuamao/kcsz.com/blob/gh-pages/jiaocai.jpg)
